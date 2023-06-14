@@ -33,3 +33,17 @@ All of the documentation can be found on the [go.dev](https://pkg.go.dev/github.
 ## alterate go mod 
 
 go mod edit -module github.com/kcloudn/ws-conf/v3
+
+### Go module versioning
+
+
+https://go.dev/doc/modules/version-numbers
+
+```
+ws-conf ➜ git tag v3.3.3
+
+ws-conf ➜ git push origin  v3.3.3
+Everything up-to-date
+
+ws-conf ➜ git describe --tags
+````
