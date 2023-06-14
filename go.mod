@@ -1,4 +1,4 @@
-module github.com/ardanlabs/conf/v3
+module github.com/kcloudn/ws-conf/v3
 
 go 1.13
 

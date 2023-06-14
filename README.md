@@ -29,3 +29,7 @@ Package conf provides support for using environmental variables and command
 line arguments for configuration.
 
 All of the documentation can be found on the [go.dev](https://pkg.go.dev/github.com/ardanlabs/conf/v3?tab=doc) website.
+
+## alterate go mod 
+
+go mod edit -module github.com/kcloudn/ws-conf/v3
